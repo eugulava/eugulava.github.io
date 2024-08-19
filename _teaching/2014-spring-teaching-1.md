@@ -1,6 +1,5 @@
 **University of Amsterdam**
 
-
 ● Econometric Analysis
 
 
