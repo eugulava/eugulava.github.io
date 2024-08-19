@@ -1,6 +1,6 @@
 **University of Amsterdam**
 
-• Econometric Analysis (*Introductory course in Econometrics for BSc in Politics, Psycology, Law and Economics*):
+• Econometric Analysis (*Introductory course in Econometrics for BSc in Politics, Psycology, Law and Economics):Fall 2024*
 
 
 
