@@ -1,3 +1,12 @@
+**University of Amsterdam**
+● Econometric Analysis
+
+
+
+
+
+
+
 ---
 title: "Teaching experience 1"
 collection: teaching
