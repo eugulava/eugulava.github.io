@@ -2,7 +2,11 @@
 
 • Econometric Analysis *(Introductory course in Econometrics for BSc in Politics, Psycology, Law and Economics): Fall 2024*
 
-• Advanced Risk Management *(MSc Finance): Spring 2022, 2023, 2024*
+• Advanced Risk Management *(MSc in Finance): Spring 2022, 2023, 2024*
+
+• Econometrics *(Introductory course in Econometrics for BSc in Economics): Fall 2022, 2023*
+
+• Thesis supervisions (x6) *(BSc in Econometrics): Spring 2022*
 
 
 
