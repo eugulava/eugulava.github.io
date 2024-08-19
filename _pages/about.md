@@ -12,8 +12,5 @@ My advisors are [Prof. dr. H. Peter Boswijk](https://www.uva.nl/en/profile/b/o/h
 
 My research focuses on financial time-series, in particular long-memory score-driven models and long-horizon volatility and quantile forecasting. 
 
-
-
-Welcome to my homepage! 
-======
+***
 
