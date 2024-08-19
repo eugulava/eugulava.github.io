@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Add a description here of courses that you taught (overall teaching story).
+List of courses I teach (taught) at the University of Amsterdam and Tinbegren Institue:
 
 ## University of Amsterdam
 - **Econometric Analysis** *(Introductory course in Econometrics for BSc in Politics, Psycology, Law and Economics): Fall 2024*
