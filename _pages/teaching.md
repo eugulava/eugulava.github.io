@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-List of courses I teach (taught) at the University of Amsterdam and Tinbegren Institue:
+List of courses I teach (taught) at the University of Amsterdam and Tinbegren Institute. 
 
 ## University of Amsterdam
 - **Econometric Analysis** *(Introductory course in Econometrics for BSc in Politics, Psycology, Law and Economics): Fall 2024*
@@ -13,5 +13,5 @@ List of courses I teach (taught) at the University of Amsterdam and Tinbegren In
 
 ## Tinbergen Institute
 - **Advanced Mathematics**: *(PhD level course for MPhil in Economics): Fall 2021, 2022, 2023*
-- **Advanced Econometrics III (Time Series Econometrics)**: *(PhD level course for MPhil in Economics): Spring 2021*
+- **Advanced Econometrics III (Time Series Econometrics)**: *(PhD level course for MPhil in Economics): Spring 2021* 
 
