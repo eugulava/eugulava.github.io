@@ -13,7 +13,7 @@ Courses I have taught as a Teaching Assistant at the University of Amsterdam and
 
 ## Tinbergen Institute
 - [Advanced Mathematics](../files/AdvancedMathematics.pdf) (MPhil): Fall 2021, 2022, 2023
-- [Advanced Econometrics III: Time Series Econometrics](../files/AdvancedEconometrics.pdf) (MPhil): Spring 2021 
+- [Advanced Econometrics III: Time Series Econometrics](../files/AdvancedEconometricsIII.pdf) (MPhil): Spring 2021 
 
 
 
