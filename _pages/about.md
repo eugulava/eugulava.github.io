@@ -12,6 +12,6 @@ My supervisors are [Prof. Dr. H. Peter Boswijk](https://www.uva.nl/en/profile/b/
 
 My research focuses on financial time-series, in particular long-memory score-driven models and long-horizon volatility and quantile forecasting. 
 
-*Primary Fields*: Financial Econometrics.<br>
-*Secondary Fields*: Risk Management, Macroeconometrics.
+**Primary Fields**: Econometrics, Financial Econometrics.<br>
+**Secondary Fields**: Risk Management, Macroeconometrics.
 
