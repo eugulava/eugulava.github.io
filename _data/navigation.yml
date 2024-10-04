@@ -8,11 +8,15 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    # url: /cv/
+    url: /files/Ugulava_CV.pdf
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  #- title: "Talks"
+  #  url: /talks/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -20,9 +24,6 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    # url: /cv/
-    url: /files/Ugulava_CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/

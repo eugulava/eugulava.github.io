@@ -6,12 +6,18 @@ title: "Teaching"
 Courses I have taught as a Teaching Assistant at the University of Amsterdam and Tinbegren Institute. 
 
 ## University of Amsterdam
-- **Econometric Analysis** (Introductory course in Econometrics for BSc in Politics, Psycology, Law and Economics): *Fall 2024*
-- **Advanced Risk Management** (MSc in Finance): *Spring 2022, 2023, 2024*
-- **Econometrics** (Introductory course in Econometrics for BSc in Economics): *Fall 2022, 2023*
-- **Thesis supervisions** (BSc in Econometrics): *Spring 2022*
+- [Econometric Analysis][def] (BSc): *Fall 2024*
+- [Advanced Risk Management][def2] (MSc): *Spring 2022, 2023, 2024*
+- [Econometrics][def3] (BSc): *Fall 2022, 2023*
+- [Thesis supervision][def4] (BSc): *Spring 2022*
 
 ## Tinbergen Institute
-- **Advanced Mathematics** (PhD level course for MPhil in Economics): *Fall 2021, 2022, 2023*
-- **Advanced Econometrics III: Time Series Econometrics** (PhD level course for MPhil in Economics): *Spring 2021* 
+- [Advanced Mathematics](files/Advanced Econometrics III (2024).pdf) (MPhil): *Fall 2021, 2022, 2023*
+- [Advanced Econometrics III: Time Series Econometrics](files/Advanced Econometrics III (2024).pdf) (MPhil): *Spring 2021* 
 
+
+
+[def]: https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/122213
+[def2]: https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/120496
+[def3]: https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/120544
+[def4]: https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/120736
