@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Econometrics in the Quantitative Economics Section at the [University of Amsterdam](https://ase.uva.nl/content/sections/quantitative-economics/quantitative-economics.html?origin=D4DixO%2FESbuaIXcFryAJdQ) and the [Tinbergen Institute](https://tinbergen.nl/home). 
+I am Ekaterina, a Ph.D. candidate in Econometrics in the Quantitative Economics Section at the [University of Amsterdam](https://ase.uva.nl/content/sections/quantitative-economics/quantitative-economics.html?origin=D4DixO%2FESbuaIXcFryAJdQ) and the [Tinbergen Institute](https://tinbergen.nl/home). 
 My supervisors are [Prof. Dr. H. Peter Boswijk](https://www.uva.nl/en/profile/b/o/h.p.boswijk/h.p.boswijk.html#Profile), [Dr. Sander Barendse](https://sites.google.com/view/sanderbarendse/)  and [Dr. Paolo Gorgi](https://www.pgorgi.com/). 
 
 **I am on the 2024/2025 academic job market**. Find:<br>
