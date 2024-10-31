@@ -19,3 +19,13 @@ My research focuses on financial time-series, in particular long-memory score-dr
 **Primary Fields**: Econometrics, Financial Econometrics.<br>
 **Secondary Fields**: Risk Management, Macroeconometrics.
 
+My reference letter writers are:
+• [Prof. Dr. H. Peter Boswijk (University of Amsterdam)](https://www.uva.nl/en/profile/b/o/h.p.boswijk/h.p.boswijk.html#Profile)<br>
+• [Dr. Sander Barendse (University of Amsterdam)](https://sites.google.com/view/sanderbarendse/)<br>
+• [Dr. Paolo Gorgi (Vrije Universiteit Amsterdam)](https://www.pgorgi.com/)<br>
+• [Dr. Anne Opschoor (Vrije Universiteit Amsterdam)](https://opschooranne.wordpress.com/)<br>
+
+Placement contacts:
+• [Prof. Dr. Eric Bartelsman (Placement Director)](mailto:e.j.bartelsman@vu.nl)<br>
+• [Christina Månsson (Placement Assistant)](mailto:c.mansson@tinbergen.nl)
+
