@@ -4,12 +4,12 @@ title: "Research"
 ---
 
 ## Job Market Paper (Working Paper)
-**Horizon-based Estimation of Volatility Models: Application to Specification Testing and Forecasting** (2023)
+**Horizon-Matched Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting** (2024)
 
 <details>
 <summary>Abstract</summary>
 
-Multi-period volatility forecasting of cumulative returns is crucial for financial decision-making. However, misspecified models can lead to inaccurate forecasts, as standard parameter estimation methods, such as quasi-maximum likelihood, may not align with the forecasting objective. To reduce the impact of model misspecification, we propose estimating parameters of GARCH- and RV-type models using a QLIKE loss function tailored to multi-period volatility, ensuring that estimation and evaluation loss functions are aligned. Since both estimators are consistent for the true parameter vector when the model is correctly specified, we develop a misspecification test based on the Hausman principle, which compares two estimators—one of which is efficient but not robust to the forecasting objective. In a Monte Carlo study, we examine misspecification with respect to long memory dynamics. Our results show that the specification test is correctly sized and has power that increases with the degree of long memory misspecification. Additionally, we recover multi-period volatility forecasts and find that when the null hypothesis of correct specification is not rejected, both estimators perform equivalently; however, when rejected, our estimator demonstrates improved forecast accuracy. In an out-of-sample analysis of ten return and realised measure series from 2001 to 2010, we demonstrate the empirical usefulness of our estimator particularly for less complex (more misspecified) models, which highlights that the performance of our estimator depends on the bias-variance trade-off.
+Multi-period volatility forecasting is crucial for financial decision-making. We consider a scenario where the decision-maker specifies an ex-ante loss function, such as the QLIKE, to assess the accuracy of multi-period volatility forecasts from a candidate volatility model. To reduce the impact of model misspecification on forecast accuracy, we introduce an estimator that is `matched' to the specification of the forecast evaluation loss function. We examine the estimator's performance under a bias-variance trade-off, highlighting conditions where it is likely to offer improvements over standard estimation methods. We also propose a model misspecification test based on the Hausman principle, which exploits the fact that our estimator and the standard estimator are consistent for the true parameter under the null of correct specification but converge to different pseudo-true values under the alternative. In a Monte Carlo study, we examine the misspecification with respect to long-memory dynamics. Our results show that the misspecification test is reasonably sized and has power that increases with the degree of long-memory misspecification. Additionally, we recover multi-period volatility forecasts and find that under correct specification, both estimators perform equivalently; however, under misspecification, our estimator provides superior forecast accuracy. Finally, an out-of-sample analysis across ten return and realised measure series from 2001 to 2010 suggests two key findings: first, it is optimal for our estimator to match the estimation loss function to a shorter horizon than the forecasting horizon; second, our estimator provides greater accuracy gains for GARCH-type volatility models applied to realised measures of volatility compared to those applied to returns. 
 
 </details>
 
@@ -22,7 +22,8 @@ We introduce a univariate score-driven model that explicitly incorporates long-m
 </details>
 
 <br>
-**Simulation-based Method for Quantiles of Cumulative Variables** (2024) 
+## Work in Progress
+**Simulation-Based Method for Quantiles of Cumulative Variables** (2024) 
 
 <details>
 <summary>Summary</summary>
