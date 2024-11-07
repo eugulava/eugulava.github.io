@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Job Market Paper (Working Paper)
-**Horizon-Matched Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting** (2024)
+**Horizon-Matched Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting** (2024, draft available soon)
 
 <details>
 <summary>Abstract</summary>
@@ -14,7 +14,7 @@ Multi-period volatility forecasting is crucial for financial decision-making. We
 </details>
 
 ## Other Working Papers
-**Long Memory Realised GAS Model** (2022)
+**Long Memory Realised GAS Model** (2022, draft available soon)
 
 <details>
 <summary>Summary</summary>
