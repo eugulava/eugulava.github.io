@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Job Market Paper (Working Paper)
-[**Horizon-Matched Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting (2024)**](../files/Ugulava_JMP.pdf)
+[**Horizon-Targeted Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting (2024)**](../files/Ugulava_JMP.pdf)
 
 <details>
 <summary>Abstract</summary>
