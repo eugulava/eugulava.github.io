@@ -14,7 +14,7 @@ My research explores how to improve **multi-period volatility forecasts** from p
 
 **I am on the 2024/2025 academic job market**. Find:<br>
 • [my JMP here](../files/Ugulava_JMP.pdf) <br>
-• [my CV here](../files/Ugulava_CV.pdf).
+• [my CV here](../files/Ekaterina_Ugulava_CV.pdf).
 
 **Primary Fields**: Econometrics, Financial Econometrics.<br>
 **Secondary Fields**: Risk Management, Macroeconometrics.
