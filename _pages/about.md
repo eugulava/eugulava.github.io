@@ -13,7 +13,7 @@ My supervisors are [Prof. Dr. H. Peter Boswijk](https://www.uva.nl/en/profile/b/
 My research explores how to improve **multi-period volatility forecasts** from potentially misspecified models, which is particularly relevant in contexts where institutional constraints hinder model changes. Additionally, I study how to model **tail risks** using volatility and quantile regression models, as accurate assessments of these risks are essential for financial and economic stability. 
 
 **I am currently on the job market.** Find:<br>
-• [my JMP here](../files/Ugulava_JMP.pdf) <br>
+• [my JMP here](../files/Ekaterina_Ugulava_JMP.pdf) <br>
 • [my CV here](../files/Ekaterina_Ugulava_CV.pdf).
 
 **Primary Fields**: Econometrics, Financial Econometrics.<br>
