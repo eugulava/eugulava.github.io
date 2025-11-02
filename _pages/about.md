@@ -26,6 +26,7 @@ My reference letter writers are:<br>
 • [Dr. Sander Barendse (University of Amsterdam)](https://sites.google.com/view/sanderbarendse/)<br>
 • [Dr. Paolo Gorgi (Vrije Universiteit Amsterdam)](https://www.pgorgi.com/)<br>
 • [Dr. Anne Opschoor (Vrije Universiteit Amsterdam)](https://opschooranne.wordpress.com/)<br>
+• [Dr. Dennis Bonam (De Nederlandsche Bank)](https://sites.google.com/site/darbonam/)<br>
 
 Placement contacts:<br>
 • [Prof. Dr. Eric Bartelsman (Placement Director)](mailto:e.j.bartelsman@vu.nl)<br>
