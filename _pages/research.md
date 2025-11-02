@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Job Market Paper (Working Paper)
-[**Horizon-Targeted Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting (2024)**](../files/Ekaterina_Ugulava_JMP.pdf)
+[**Horizon-Targeted Estimation of Volatility Models: Application to a Misspecification Testing and Forecasting (2025)**](../files/Ekaterina_Ugulava_JMP.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -23,7 +23,7 @@ We introduce a univariate score-driven model that explicitly incorporates long-m
 
 <br>
 ## Work in Progress
-**Constructing Multi-Period Quantile Forecasts from the Dynamic Quantile Regression Model** (2024) 
+**Constructing Multi-Period Quantile Forecasts from the Dynamic Quantile Regression Model** (2025) 
 
 <details>
 <summary>Summary</summary>
